@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AndroJava Tech4U</string>
+     <string name="addUnit">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+     <string name="contactus1">This App!is specially for those who wanted to get the basic and advance knowledge on C/C++, Java and Android Technology in Hindi.!!,\n <b>For any Business Enquiries:-
+suryaassigen@gmail.com</b></string>
+<string name="contactus2">E-3,Jhandewala Estate,Rani Jhansi Marg,New Delhi-110055,
+    Phone:23529557,41398888
+    Email:delpress@bol.net.in</string>
+    <string name="contactus3">
+        M-12,Connaught Circus,
+        New Delhi-110001
+        Phone 23416313</string>
+
+</resources>
